@@ -1,0 +1,19 @@
+button {
+    border-radius: 10px;
+    padding: 10px 30px;
+    border: none;
+    background: $black;
+    color: $white;
+    transition: ease 0.6s;
+    border: 2px solid transparent;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    &:hover {
+        background: $highlightColour;
+        transition: ease 0.6s;
+        border: 2px solid black;
+        color: $black;
+
+    }
+}

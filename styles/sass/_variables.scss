@@ -1,0 +1,16 @@
+// Colours 
+$black: rgb(0,0,0); 
+$white: rgb(255,255,255);
+$highlightColour: darkgrey;
+// $teal: rgb(0,183,255);
+$lightGrey: rgb(107,107,107);
+$darkGrey: rgb(16,16,16);
+$transparentBlack: rgba(0,0,0,.6);
+$transparentBlackDark: rgba(0,0,0,.99);
+
+$gradientColour: repeating-linear-gradient(135deg, $darkGrey, $darkGrey 3px, $black 3px, $black 6px);
+// Fonts
+$serif: 'Pridi', serif;
+$sanSerif: neue-haas-grotesk-text, sans-serif;
+$header: memoriampro, sans-serif;
+
