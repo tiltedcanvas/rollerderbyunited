@@ -8,20 +8,3 @@
 	src: url('/fonts/schwager-black.eot');
 	src: local('☺'), url('/fonts/schwager-black.woff') format('woff'), url('/fonts/schwager-black.ttf') format('truetype'), url('/fonts/schwager-black.svg') format('svg');
 }
-
-// Colours 
-$black: rgb(0,0,0); 
-$white: rgb(255,255,255);
-$highlightColour: darkgrey;
-// $teal: rgb(0,183,255);
-$lightGrey: rgb(107,107,107);
-$darkGrey: rgb(16,16,16);
-$transparentBlack: rgba(0,0,0,.6);
-$transparentBlackDark: rgba(0,0,0,.99);
-
-$gradientColour: repeating-linear-gradient(135deg, $darkGrey, $darkGrey 3px, $black 3px, $black 6px);
-// Fonts
-$serif: 'Schwager', serif;
-$sanSerif: 'Open Sans', sans-serif;
-$header: 'Schwager', sans-serif;
-
