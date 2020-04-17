@@ -1,5 +1,0 @@
-AuthName "Website currently in development mode"
-AuthType Basic
-AuthUserFile /customers/1/3/f/torontorollerderby.org/httpd.www/.htpasswd
-AuthGroupFile /dev/null
-require valid-user 
