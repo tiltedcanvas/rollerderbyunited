@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1015px) {
+    .wrapper {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .faqList {
+            li {
+                width: 100%;
+                padding: 20px;
+            }
+        }
+}
